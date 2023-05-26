@@ -4,7 +4,7 @@ Provides capability to recollect data from its memory after sesion is closed bas
 Provides capability to recall conversations that are specific to particular date time range as per the request from user
 Probvides capability to save conversation on user request thereby optimizing memory and not storing unwanted information
 
-Design
+## Design
 ![image](https://github.com/Kishorlal/PyChatAI/assets/68214882/2d38efa8-f794-4429-a8d6-d7fe56c85ead)
 
 Scenario 1:
