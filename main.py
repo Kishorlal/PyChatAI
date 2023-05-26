@@ -1,6 +1,6 @@
 '''
 ************************************************************************************************************************
-Name: PyChatbotAI
+Name: PyChatAI
 Purpose: Creates an interactive chat session using model provided by openai.
          Provides capability to recollect data from its memory after sesion is closed based on user request.
          Provides capability to recall conversations that are specific to particular date time range as per the request from user
