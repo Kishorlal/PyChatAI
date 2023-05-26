@@ -1,0 +1,8 @@
+{
+"model" : "gpt-3.5-turbo",
+"role" : "user",
+"max_tokens" : 1024,
+"temperature" : 0.8,
+"data_library" : "./memory.json",
+"date_time_format" : "%Y-%m-%d %H:%M:%S"
+}
